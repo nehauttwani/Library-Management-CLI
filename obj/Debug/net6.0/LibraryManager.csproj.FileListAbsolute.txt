@@ -1,0 +1,15 @@
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\bin\Debug\net6.0\LibraryManager.exe
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\bin\Debug\net6.0\LibraryManager.deps.json
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\bin\Debug\net6.0\LibraryManager.runtimeconfig.json
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\bin\Debug\net6.0\LibraryManager.dll
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\bin\Debug\net6.0\ref\LibraryManager.dll
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\bin\Debug\net6.0\LibraryManager.pdb
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\obj\Debug\net6.0\LibraryManager.csproj.AssemblyReference.cache
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\obj\Debug\net6.0\LibraryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\obj\Debug\net6.0\LibraryManager.AssemblyInfoInputs.cache
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\obj\Debug\net6.0\LibraryManager.AssemblyInfo.cs
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\obj\Debug\net6.0\LibraryManager.csproj.CoreCompileInputs.cache
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\obj\Debug\net6.0\LibraryManager.dll
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\obj\Debug\net6.0\ref\LibraryManager.dll
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\obj\Debug\net6.0\LibraryManager.pdb
+C:\Users\NEHA UTTWANI\source\repos\LibraryManager\obj\Debug\net6.0\LibraryManager.genruntimeconfig.cache

@@ -20,24 +20,7 @@ namespace LibraryManager
             {
                 option = "6";
                 string choice = userFunctions.ReturnToMainMenu(option);
-                //Console.WriteLine("***************************");
-                //Console.WriteLine("*     LIBRARY MANAGER     *");
-                //Console.WriteLine("***************************");
-
-                //Console.WriteLine("====================");
-                //Console.WriteLine("     MAIN MENU      ");
-                //Console.WriteLine("====================");
-                //Console.WriteLine("1. Users Management");
-                //Console.WriteLine("2. Books Management");
-                //Console.WriteLine("3. Search Users");
-                //Console.WriteLine("4. Search Books");
-                //Console.WriteLine("5 Issue / Return Books");
-                //Console.WriteLine("6. Exit");
-
-                //Console.Write("Your Option: ");
-                //string choice = Console.ReadLine();
-
-
+                
                 switch (choice)
                 {
                     case "1":

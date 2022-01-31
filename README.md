@@ -32,7 +32,4 @@ https://visualstudio.microsoft.com/downloads/
 2. Open the code in visual studio.
 3. Hit the Build button.
 
-## Screenshots
-
-![App Screenshot]()
 
